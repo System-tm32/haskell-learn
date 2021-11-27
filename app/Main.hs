@@ -1,6 +1,8 @@
 module Main where
 
-import Lib
+import Exercise1
 
 main :: IO ()
-main = someFunc
+
+numbers = [1..100]
+main = print(intListLength numbers)

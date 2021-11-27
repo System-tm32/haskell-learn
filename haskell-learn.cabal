@@ -25,7 +25,7 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      Exercise1
   other-modules:
       Paths_haskell_learn
   hs-source-dirs:
